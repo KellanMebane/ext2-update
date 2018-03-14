@@ -1,0 +1,20 @@
+bmap_block=8 imap_block=9 inodes_table=10 root inode information:
+-----------------------
+mode = 41ed uid = 0 gid = 0
+size = 1024
+ctime = (null)links = 8
+i_block[0] = 33
+-----------------------------
+Printing DIR Contents
+-----------------------------
+2 12 1 .
+2 12 2 ..
+11 20 10 lost+found
+12 12 1 a
+13 12 1 b
+14 12 1 c
+15 12 1 d
+16 12 2 f1
+17 12 2 f2
+18 12 2 f3
+19 896 20 kellan_made_this_dir
